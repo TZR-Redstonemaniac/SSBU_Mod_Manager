@@ -25,11 +25,6 @@ SSBU Mod Manager is a Java-based application for managing Super Smash Bros. Ulti
 3. **Save Changes**:
    - Click on the "Save" button to apply your changes. Mods in the "Disabled" list will be moved to a "DISABLED" folder within your chosen directory.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
